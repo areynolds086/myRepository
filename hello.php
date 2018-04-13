@@ -1,2 +1,13 @@
-<?php
-  echo 'Hello World!';
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <?php
+      echo '<p>Hello World!</p>';
+    ?>
+
+  </body>
+</html>
